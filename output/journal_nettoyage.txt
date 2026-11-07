@@ -1,0 +1,6 @@
+JOURNAL DE NETTOYAGE
+====================
+[Marché Lagune] Lignes dupliquées détectées et supprimées.
+[Marché Lagune] Prix invalide ou manquant : Prix sur demande
+[Marché Lagune] Prix invalide ou manquant : nan
+[Baobab Shop] Prix null pour l'article : Philips Steam Iron
